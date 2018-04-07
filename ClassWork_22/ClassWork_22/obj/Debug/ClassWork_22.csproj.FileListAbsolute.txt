@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\ClassWork_22\ClassWork_22\bin\Debug\ClassWork_22.exe.config
+c:\users\student\documents\visual studio 2015\Projects\ClassWork_22\ClassWork_22\bin\Debug\ClassWork_22.exe
+c:\users\student\documents\visual studio 2015\Projects\ClassWork_22\ClassWork_22\bin\Debug\ClassWork_22.pdb
+c:\users\student\documents\visual studio 2015\Projects\ClassWork_22\ClassWork_22\obj\Debug\ClassWork_22.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\ClassWork_22\ClassWork_22\obj\Debug\ClassWork_22.exe
+c:\users\student\documents\visual studio 2015\Projects\ClassWork_22\ClassWork_22\obj\Debug\ClassWork_22.pdb
